@@ -1,0 +1,2 @@
+
+The content of the files as well as the relationships between files and directories, versions, and commits, all of these objects in the Git repository are secured with a cryptographically secure hashing algorithm called SHA1. This protects the code and the change history against both accidental and malicious change and ensures that the history is fully traceable.
