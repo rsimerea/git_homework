@@ -13,3 +13,6 @@ Specifically, Git is a distributed version control system, which means that the 
 
 According to a Stack Overflow developer survey, over 87% of developers use Git.
 
+One of the challenges I faced while completing the tasks, was the fact that my current branch feature had no upstream branch, in order to push the current branch and set the remote as upstream; that was the reason why I had to search for a new command in order to complete the task: git push --set-upstream git_homework feature
+
+
